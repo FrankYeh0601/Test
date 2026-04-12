@@ -1,0 +1,6 @@
+# 原本的內容
+# ...
+.aider* 
+venv/
+__pycache__/
+.DS_Store
